@@ -1,0 +1,59 @@
+#nav{
+    background-color: teal;
+}
+
+h1{
+    color: white;
+}
+
+.flex-container-1{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    
+}
+
+#main-bodies{
+    background-color: black;
+    color: white;
+}
+
+/* .flex-container-2{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: flex-start; */
+    /* justify-content: space-between;
+    border: 2px solid goldenrod;
+     */
+/* } */
+
+.links{
+    color: goldenrod;
+    text-decoration: none;
+}
+
+#hero-img{
+    width: 100%;
+}
+
+.flex-container-3{
+    display: flex;
+}
+
+#my-interest{
+    border: .5em solid goldenrod;
+    padding: 2em;
+}
+
+#my-code-story{
+    border: .5em solid goldenrod;
+    padding: 2em;
+}
+
+#sidebar{
+    border: .5em solid goldenrod;
+    width: 100%;
+    padding-left: .5em;
+    background-color: black;
+    color: white;
+}
